@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEnemyFight", "SimpleEnemyFight.csproj", "{27D242E0-AEB1-435B-A4EF-53DCC3C6B8F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D242E0-AEB1-435B-A4EF-53DCC3C6B8F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D242E0-AEB1-435B-A4EF-53DCC3C6B8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D242E0-AEB1-435B-A4EF-53DCC3C6B8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D242E0-AEB1-435B-A4EF-53DCC3C6B8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1CEC27C-874E-467E-9DE7-A18ADB9D2F02}
+	EndGlobalSection
+EndGlobal
